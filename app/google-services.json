@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939635568462",
+    "firebase_url": "https://loginex-250807.firebaseio.com",
+    "project_id": "loginex-250807",
+    "storage_bucket": "loginex-250807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939635568462:android:7a849cce47086d54",
+        "android_client_info": {
+          "package_name": "likelion.smu.com.loginex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939635568462-npb4v51vc2lbq42p26pbmqmfhrav9psh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "likelion.smu.com.loginex",
+            "certificate_hash": "3121c5f7e726162e6f46297a478bb377da9c5b5f"
+          }
+        },
+        {
+          "client_id": "939635568462-2r2l17u01o5pujfg9rmeqiq491hromom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBxXBDuiEPj2T3nO5RQTHglUmrS6EGto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939635568462-2r2l17u01o5pujfg9rmeqiq491hromom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
